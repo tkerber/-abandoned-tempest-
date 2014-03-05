@@ -1,5 +1,7 @@
 package com.github.tkerber.tempest;
 
+import com.github.tkerber.tempest.commands.Command;
+
 /**
  * A program for syncing system settings.
  */
